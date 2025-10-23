@@ -1,0 +1,67 @@
+Script started on 2025-10-23 01:47:15+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;andres@Ubuntu24: ~/Documents/Module 1[01;32mandres@Ubuntu24[00m:[01;34m~/Documents/Module 1[00m$ tar -xvf log.tar.gz
+[?2004llog.csv
+[?2004h]0;andres@Ubuntu24: ~/Documents/Module 1[01;32mandres@Ubuntu24[00m:[01;34m~/Documents/Module 1[00m$ grep -o 'education' log.csv
+[?2004l[01;31m[Keducation[m[K
+[01;31m[Keducation[m[K
+[01;31m[Keducation[m[K
+[01;31m[Keducation[m[K
+[01;31m[Keducation[m[K
+[01;31m[Keducation[m[K
+[01;31m[Keducation[m[K
+[01;31m[Keducation[m[K
+[01;31m[Keducation[m[K
+[01;31m[Keducation[m[K
+[01;31m[Keducation[m[K
+[01;31m[Keducation[m[K
+[01;31m[Keducation[m[K
+^C
+[?2004h]0;andres@Ubuntu24: ~/Documents/Module 1[01;32mandres@Ubuntu24[00m:[01;34m~/Documents/Module 1[00m$ grep -o 'education' log.csv[C[1@[[1@A[1@-[1@Z[1@a[1@-[1@z[1@0[1@-[1@0[1@][1@*
+[?2004l[01;31m[Keducation0gscototal[m[K
+[01;31m[Keducationq[m[K
+[01;31m[Keducational[m[K
+[01;31m[Keducation[m[K
+[01;31m[Keducational[m[K
+[01;31m[Keducational[m[K
+[01;31m[Keducational[m[K
+[01;31m[Keducationsess[m[K
+[01;31m[Keducationsessi[m[K
+[01;31m[Keducationq[m[K
+[01;31m[Keducation[m[K
+[01;31m[Keducation[m[K
+[01;31m[Keducationq[m[K
+^C
+[?2004h]0;andres@Ubuntu24: ~/Documents/Module 1[01;32mandres@Ubuntu24[00m:[01;34m~/Documents/Module 1[00m$ grep -o 'education[A-Za-z0-0]*' log.csv[C[1@[[1@A-' log.csv [A]0;andres@Ubuntu24: ~/Documents/Module 1[01;32mandres@Ubuntu24[00m:[01;34m~/Documents/Module 1[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CZ' log.csv[A]0;andres@Ubuntu24: ~/Documents/Module 1[01;32mandres@Ubuntu24[00m:[01;34m~/Documents/Module 1[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca' log.csv[A]0;andres@Ubuntu24: ~/Documents/Module 1[01;32mandres@Ubuntu24[00m:[01;34m~/Documents/Module 1[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-' log.csv[A]0;andres@Ubuntu24: ~/Documents/Module 1[01;32mandres@Ubuntu24[00m:[01;34m~/Documents/Module 1[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cz' log.csv[A]0;andres@Ubuntu24: ~/Documents/Module 1[01;32mandres@Ubuntu24[00m:[01;34m~/Documents/Module 1[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0' log.csv[A]0;andres@Ubuntu24: ~/Documents/Module 1[01;32mandres@Ubuntu24[00m:[01;34m~/Documents/Module 1[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-' log.csv[A]0;andres@Ubuntu24: ~/Documents/Module 1[01;32mandres@Ubuntu24[00m:[01;34m~/Documents/Module 1[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0' log.csv[A]0;andres@Ubuntu24: ~/Documents/Module 1[01;32mandres@Ubuntu24[00m:[01;34m~/Documents/Module 1[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C]' log.csv[A]0;andres@Ubuntu24: ~/Documents/Module 1[01;32mandres@Ubuntu24[00m:[01;34m~/Documents/Module 1[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C*' log.csv
+[?2004l[01;31m[Keducation0gscototal[m[K
+[01;31m[Keducationq[m[K
+[01;31m[Keducational[m[K
+[01;31m[Keducation[m[K
+[01;31m[Keducational[m[K
+[01;31m[Keducational[m[K
+[01;31m[Keducational[m[K
+[01;31m[Keducationsess[m[K
+[01;31m[Keducationsessi[m[K
+[01;31m[Keducationq[m[K
+[01;31m[Keducation[m[K
+[01;31m[Keducation[m[K
+[01;31m[Keducationq[m[K
+[01;31m[Keducation0[m[K
+[01;31m[Keducation[m[K
+^C
+[?2004h]0;andres@Ubuntu24: ~/Documents/Module 1[01;32mandres@Ubuntu24[00m:[01;34m~/Documents/Module 1[00m$ grep -o 'education[A-Za-z0-0]*[A-Za-z0-0]*' log.csv[1@.[1@t[1@x[1@t
+[?2004l[01;31m[Keducation0gscototal.txt[m[K
+[01;31m[Keducation.txt[m[K
+[01;31m[Keducation0gscototal.txt[m[K
+[01;31m[Keducation0gscototal.txt[m[K
+[01;31m[Keducation.txt[m[K
+[?2004h]0;andres@Ubuntu24: ~/Documents/Module 1[01;32mandres@Ubuntu24[00m:[01;34m~/Documents/Module 1[00m$ grep -o 'education[A-Za-z0-0]*[A-Za-z0-0]*.txt' log.csv > confidential.txt
+[?2004l[?2004h]0;andres@Ubuntu24: ~/Documents/Module 1[01;32mandres@Ubuntu24[00m:[01;34m~/Documents/Module 1[00m$ cat confidential.txt | sort > sort-[K_confide ntial.txt
+[?2004l[?2004h]0;andres@Ubuntu24: ~/Documents/Module 1[01;32mandres@Ubuntu24[00m:[01;34m~/Documents/Module 1[00m$ cat sort_confidential.txt | uniq > uniq_co nfidential.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[Kclean_c onfidentu[Kial.txt
+[?2004l[?2004h]0;andres@Ubuntu24: ~/Documents/Module 1[01;32mandres@Ubuntu24[00m:[01;34m~/Documents/Module 1[00m$ cat clean_confidential.txt 
+[?2004leducation0gscototal.txt
+education.txt
+[?2004h]0;andres@Ubuntu24: ~/Documents/Module 1[01;32mandres@Ubuntu24[00m:[01;34m~/Documents/Module 1[00m$ exit
+[?2004lexit
+
+Script done on 2025-10-23 01:51:44+00:00 [COMMAND_EXIT_CODE="0"]
